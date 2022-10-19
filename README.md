@@ -2,19 +2,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Redos)](https://github.com/G-Redos/github-readme-stats)
 
 
-# Reach me
-<div>
-  <a href="https://www.linkedin.com/in/gredos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.codecademy.com/profiles/G.Redos" target="_blank"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" target="_blank"></a>
-  <a href="https://www.codewars.com/users/g-redos" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
-  <a href="https://www.codewars.com/users/g-redos" target="_blank"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" target="_blank"></a>
-  <a href="https://www.codewars.com/users/g-redos" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" target="_blank"></a>
-  <a href="https://www.codewars.com/users/g-redos" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
-   <a href="https://www.codewars.com/users/g-redos" target="_blank"><img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" target="_blank"></a>
-    <a href="https://www.codewars.com/users/g-redos" target="_blank"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" target="_blank"></a>
-</div>
-
-
 # Tech Stacks
 <div align="left">
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
@@ -58,14 +45,17 @@
 [![Codewars](https://github.r2v.ch/codewars?user=G-Redos&stroke=%232B2B2b&theme=light&top_languages=true)](https://www.codewars.com/users/g-redos "Codewars Profile") -->
 
 
-# My Workspace
+# Reach me
 <div>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-<div>
+  <a href="https://www.linkedin.com/in/gredos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.codecademy.com/profiles/G.Redos" target="_blank"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" target="_blank"></a>
+  <a href="https://www.codewars.com/users/g-redos" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
+  <a href="https://www.codewars.com/users/g-redos" target="_blank"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" target="_blank"></a>
+  <a href="https://www.codewars.com/users/g-redos" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" target="_blank"></a>
+  <a href="https://www.codewars.com/users/g-redos" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
+   <a href="https://www.codewars.com/users/g-redos" target="_blank"><img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" target="_blank"></a>
+    <a href="https://www.codewars.com/users/g-redos" target="_blank"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" target="_blank"></a>
+</div>
 
 
 
