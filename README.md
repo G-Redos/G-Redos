@@ -3,13 +3,13 @@
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Redos&card_height=80px&card_width=325px)
 <div align="center">
   <a href="https://www.linkedin.com/in/gredos/" target="_blank"> 
-  <<img width="70" alt="linkedIn" srcc="https://user-images.githubusercontent.com/19231569/194025465-218acc80-774e-43d9-b0c3-c6d20d8c2621.png" 
+  <img width="70" alt="linkedIn" srcc="https://user-images.githubusercontent.com/19231569/194025465-218acc80-774e-43d9-b0c3-c6d20d8c2621.png" 
   target="_blank"></a>
   <a href="https://www.linkedin.com/in/gredos/" target="_blank"> 
-  <img width="70" alt="cv" src="https://user-images.githubusercontent.com/19231569/193342086-9ca4edab-1074-4f17-b5f4-123ce409837d.png" 
+  <img width="70" alt="CV" src="https://user-images.githubusercontent.com/19231569/193342086-9ca4edab-1074-4f17-b5f4-123ce409837d.png" 
   target="_blank"></a>
   <a href="https://www.linkedin.com/in/gredos/" target="_blank"> 
-  <<img width="70" alt="portfolio" src="https://user-images.githubusercontent.com/19231569/193342120-1deb9fd3-b04e-43d4-8e53-f6f1fea24d9a.png" 
+  <img width="70" alt="Portfolio" src="https://user-images.githubusercontent.com/19231569/193342120-1deb9fd3-b04e-43d4-8e53-f6f1fea24d9a.png" 
   target="_blank"></a>
 </div>
 
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src=" 	https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white"/>
   <!-- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> -->
