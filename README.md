@@ -1,6 +1,8 @@
+[![Github Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=vue)
 [![G-Redos's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Redos&count_private=true&show_icons=true)](https://github.com/G-Redos/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Redos&langs_count=10)](https://github.com/G-Redos/github-readme-stats)
 
+[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Redos)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=G-Redos)
 
 # Tech Stacks
 
