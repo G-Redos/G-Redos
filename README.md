@@ -5,8 +5,6 @@
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=G-Redos&card_width=800px)
 
 ![Profile Hits Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FG-Redos1212%2Fhit-counter)
-
-
 # Tech Stacks
 ## IDE
 <div align="left">
@@ -15,7 +13,6 @@
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 </div>
-
 
 ## Languages
 <div align="left">
@@ -29,13 +26,11 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
 
-
 ## Linters
 <div align="left">
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"/>
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"/>
 </div>
-
 
 ## Frameworks & Library
 <div align="left">
@@ -99,7 +94,7 @@
 </div>
 
 
-# Contact Me
+# Contact me
 <div>
   <a href="https://www.linkedin.com/in/gredos/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
   target="_blank"></a>
