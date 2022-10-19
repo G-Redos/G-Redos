@@ -101,5 +101,4 @@
   target="_blank"></a>
   <a href="https://www.gregoryredos.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
   target="_blank"></a>
-  ![Profile Hits Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FG-Redos1212%2Fhit-counter)
 </div>
