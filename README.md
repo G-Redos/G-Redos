@@ -1,5 +1,5 @@
 ![Github Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=vue)
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Redos&card_width=200px)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Redos&card_width=100px)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=G-Redos&card_width=400px)
 
