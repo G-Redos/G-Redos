@@ -1,4 +1,3 @@
-# www.gregoryredos.com
 [![G-Redos's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Redos&count_private=true&show_icons=true)](https://github.com/G-Redos/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Redos)](https://github.com/G-Redos/github-readme-stats)
 
