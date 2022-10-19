@@ -1,5 +1,5 @@
 [![G-Redos's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Redos&count_private=true&show_icons=true)](https://github.com/G-Redos/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Redos)](https://github.com/G-Redos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Redos&langs_count=10)](https://github.com/G-Redos/github-readme-stats)
 
 
 # Tech Stacks
@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/>
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/RSpec-blue?style=for-the-badge&logo=Rspec&logoColor=white" alt="Rspec"/>
-   
 </div>
 
 
@@ -45,17 +44,27 @@
 [![Codewars](https://github.r2v.ch/codewars?user=G-Redos&stroke=%232B2B2b&theme=light&top_languages=true)](https://www.codewars.com/users/g-redos "Codewars Profile") -->
 
 
-# Reach me
+# Links
 <div>
-  <a href="https://www.linkedin.com/in/gredos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
   <a href="https://www.codecademy.com/profiles/G.Redos" target="_blank"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" target="_blank"></a>
+  
   <a href="https://www.codewars.com/users/g-redos" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
+  
   <a href="https://www.codewars.com/users/g-redos" target="_blank"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" target="_blank"></a>
+  
   <a href="https://www.codewars.com/users/g-redos" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" target="_blank"></a>
+  
   <a href="https://www.codewars.com/users/g-redos" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
-   <a href="https://www.codewars.com/users/g-redos" target="_blank"><img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" target="_blank"></a>
-    <a href="https://www.codewars.com/users/g-redos" target="_blank"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" target="_blank"></a>
+  
+  <a href="https://www.codewars.com/users/g-redos" target="_blank"><img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" target="_blank"></a>
+  
+  <a href="https://www.codewars.com/users/g-redos" target="_blank"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" target="_blank"></a>
 </div>
 
 
-
+# Contact Me
+<div>
+  <a href="https://www.linkedin.com/in/gredos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+</div>
