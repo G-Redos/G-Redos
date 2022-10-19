@@ -1,10 +1,6 @@
 ![Github Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=vue&card_width=1500px)
 ![G-Redos's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Redos&count_private=true&show_icons=true&include_all_commits=true&card_width=325px)
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Redos&card_height=80px&card_width=325px)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=G-Redos&card_width=800px)
-
-![Profile Hits Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FG-Redos1212%2Fhit-counter)
 # Tech Stacks
 ## IDE
 <div align="left">
@@ -105,4 +101,5 @@
   target="_blank"></a>
   <a href="https://www.gregoryredos.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
   target="_blank"></a>
+  ![Profile Hits Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FG-Redos1212%2Fhit-counter)
 </div>
