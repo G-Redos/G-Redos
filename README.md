@@ -3,7 +3,7 @@
 
 [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Redos)
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=G-Redos)
-
+[![Profile Hits Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FG-Redos1212%2Fhit-counter)
 # Tech Stacks
 
 
