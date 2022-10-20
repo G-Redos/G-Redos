@@ -1,6 +1,13 @@
-![Github Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=vue&card_width=1500px)
+![Github Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=default)
+![G-Redos Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G-Redos&theme=default)
+![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G-Redos&theme=default)
+![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G-Redos&theme=default)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=G-Redos&theme=default)
+![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G-Redos&theme=default&utcOffset=8) 
+<!-- ![Github Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=vue&card_width=1500px)
 ![G-Redos's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Redos&count_private=true&show_icons=true&include_all_commits=true&card_width=325px)
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Redos&card_height=80px&card_width=325px)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Redos&card_height=80px&card_width=325px) -->
+
 <!-- <div align="center">
   <a href="https://www.linkedin.com/in/gredos/" target="_blank"> 
   <img width="70" alt="linkedIn" srcc="https://user-images.githubusercontent.com/19231569/194025465-218acc80-774e-43d9-b0c3-c6d20d8c2621.png" 
