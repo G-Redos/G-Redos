@@ -72,7 +72,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div> -->
 
-# Links
+<!-- # Links
 <div align="left">
   <a href="https://www.codecademy.com/profiles/G.Redos" target="_blank"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" 
   target="_blank"></a>
@@ -104,9 +104,9 @@
   target="_blank"></a>
   <a href="https://www.codewars.com/users/g-redos" target="_blank"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" 
   target="_blank"></a>
-</div>
+</div> -->
 
-# Contact me
+<!-- # Contact me
 <div align="center">
   <a href="https://www.linkedin.com/in/gredos/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
   target="_blank"></a>
@@ -118,4 +118,4 @@
   target="_blank"></a>
   <a href="https://www.gregoryredos.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
   target="_blank"></a>
-</div>
+</div> -->
