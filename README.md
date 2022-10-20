@@ -3,6 +3,8 @@
 ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G-Redos&theme=default)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=G-Redos&theme=default)
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G-Redos&theme=default&utcOffset=1) 
+
+
 <!-- ![Github Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=vue&card_width=1500px)
 ![G-Redos's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Redos&count_private=true&show_icons=true&include_all_commits=true&card_width=325px)
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Redos&card_height=80px&card_width=325px) -->
