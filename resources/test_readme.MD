@@ -1,5 +1,15 @@
 &fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62
 
+
+
+![Github Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=2077)
+![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G-Redos&theme=2077)
+![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G-Redos&theme=2077) 
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=G-Redos&theme=2077)
+![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G-Redos&theme=2077&gmtOffset=1)
+
+
+
 ![Github Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=vue&card_width=1500px)
 
 ![G-Redos's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Redos&count_private=true&show_icons=true&include_all_commits=true&card_width=325px)
