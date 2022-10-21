@@ -11,11 +11,11 @@
 
 
 
-<img height="400px" width="934px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=github"/>
-<img height="300px" width="460px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G-Redos&theme=github"/>
-<img height="300em" width="460em" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G-Redos&theme=github"/>
-<img height="300em" width="460em" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=G-Redos&theme=github"/>
-<img height="300em" width="460em" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G-Redos&theme=github&gmtOffset=1"/>
+<img height="400px" width="934px" Align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=github"/>
+<img height="300px" width="460px" Align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G-Redos&theme=github"/>
+<img height="300em" width="460em" Align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G-Redos&theme=github"/>
+<img height="300em" width="460em" Align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=G-Redos&theme=github"/>
+<img height="300em" width="460em" Align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G-Redos&theme=github&gmtOffset=1"/>
 
 
 <!-- # Reach me -->
