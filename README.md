@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Gregory%20Redos&fontSize=90&animation=scaleIn&desc=Student%20at%20Makers%20Academy&descAlignY=75&descAlign=72)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Gregory%20Redos&fontSize=90&animation=scaleIn&desc=Student%20at%20Makers%20Academy&descAlignY=75&descAlign=72)
 
 
 ![Github Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=2077)
@@ -12,11 +12,13 @@
 
 
 <img height="400px" width="934px" Align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=github"/>
-<img height="300px" width="300px" Align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G-Redos&theme=github"/>
-<img height="300em" width="300em" Align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G-Redos&theme=github"/>
-<img height="300em" width="300em" Align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=G-Redos&theme=github"/>
-<img height="300em" width="300em" Align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G-Redos&theme=github&gmtOffset=1"/>
 
+<div Align="center">
+<img height="300px" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G-Redos&theme=github"/>
+<img height="300em" width="300em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G-Redos&theme=github"/>
+<img height="300em" width="300em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=G-Redos&theme=github"/>
+<img height="300em" width="300em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G-Redos&theme=github&gmtOffset=1"/>
+</div>
 
 <!-- # Reach me -->
 
