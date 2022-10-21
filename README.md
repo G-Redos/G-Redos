@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Gregory%20Redos&fontSize=90&animation=FadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Gregory%20Redos&fontSize=90&animation=scaleIn&desc=Student%20at%20Makers%20Academy&descAlignY=75&descAlign=72)
 
 
 ![Github Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=github)
@@ -20,5 +20,5 @@
 <!-- # Reach me -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)
-<img height="20em" src="https://gpvc.arturio.dev/G-Redos">
-<img height="20em" src="https://img.shields.io/github/followers/G-Redos.svg?style=social&label=Follow&maxAge=2592000">
+<img height="20em" align="right" src="https://gpvc.arturio.dev/G-Redos">
+<img height="20em" align="right" src="https://img.shields.io/github/followers/G-Redos.svg?style=social&label=Follow&maxAge=2592000">
