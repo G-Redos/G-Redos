@@ -20,5 +20,4 @@
 <!-- # Reach me -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)
-<img height="20em" align="right" src="https://gpvc.arturio.dev/G-Redos">
 <img height="20em" align="right" src="https://img.shields.io/github/followers/G-Redos.svg?style=social&label=Follow&maxAge=2592000">
