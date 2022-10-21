@@ -10,7 +10,7 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=footer&animation=fadeIn)
 
 <div align="center">
-  <img height="400em" width="800em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=github"/>
+  <img height="400em" width="900em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=github"/>
   <img height="300em" width="400em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G-Redos&theme=github"/>
   <img height="300em" width="400em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G-Redos&theme=github"/>
   <img height="300em" width="400em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=G-Redos&theme=github"/>
