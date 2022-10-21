@@ -1,7 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=header&animation=fadeIn)
-<img height="20em" src="https://gpvc.arturio.dev/G-Redos">
-<img height="20em" src="https://img.shields.io/github/followers/G-Redos.svg?style=social&label=Follow&maxAge=2592000">
+
 
 ![Github Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=github)
 ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G-Redos&theme=github)
@@ -21,3 +20,5 @@
 <!-- # Reach me -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=footer&animation=fadeIn)
+<img height="20em" src="https://gpvc.arturio.dev/G-Redos">
+<img height="20em" src="https://img.shields.io/github/followers/G-Redos.svg?style=social&label=Follow&maxAge=2592000">
