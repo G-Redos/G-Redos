@@ -14,12 +14,14 @@
 <img height="400px" width="934px" Align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=github"/>
 
 <div Align="center">
-<img height="300px" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G-Redos&theme=github"/>
-<img height="300em" width="300em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G-Redos&theme=github"/>
-<img height="300em" width="300em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=G-Redos&theme=github"/>
-<img height="300em" width="300em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G-Redos&theme=github&gmtOffset=1"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G-Redos&theme=github"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G-Redos&theme=github"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=G-Redos&theme=github"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G-Redos&theme=github&gmtOffset=1"/>
 </div>
 
 <!-- # Reach me -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)
+
+height="300em" width="300em"
