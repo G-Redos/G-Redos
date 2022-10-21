@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradiant&height=80&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header)
 
 
 ![Github Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=github)
