@@ -13,7 +13,7 @@
 
 <img height="400px" width="934px" Align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=github"/>
 
-<div Align="center">
+<div Align="center" height="500em" width="500em">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G-Redos&theme=github"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G-Redos&theme=github"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=G-Redos&theme=github"/>
