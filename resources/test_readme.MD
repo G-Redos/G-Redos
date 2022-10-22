@@ -5,6 +5,14 @@
 </div>
 
 
+<div id="github-card"
+     data-username="YOUR_GITHUB_USERNAME"
+     data-max-repos="3"
+     data-sort-by="stars"
+     data-header-text="Most starred repositories">
+</div>
+
+
 
 
 ![Github Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=2077)
