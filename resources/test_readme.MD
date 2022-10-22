@@ -1,7 +1,11 @@
 &fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62
 
-<div class="github-card" data-github="G-Redos" data-width="400" data-height="" data-theme="default"></div>
+<div class="github-card" data-github="G-Redos" data-width="400" data-height="" data-theme="default">
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+</div>
+
+
+
 
 ![Github Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=2077)
 ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G-Redos&theme=2077)
