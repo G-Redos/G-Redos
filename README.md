@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=165&section=header&text=Gregory%20Redos&fontSize=90&animation=scaleIn&fontAlignY=50&desc=Student%20at%20Makers%20Academy&descSize=20&descAlignY=65&descAlign=77)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=165&section=header&text=Gregory%20Redos&fontSize=90&animation=scaleIn&fontAlignY=50&desc=Student%20at%20Makers%20Academy&descSize=20&descAlignY=60&descAlign=77)
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=github_dark"/>
 </div>
