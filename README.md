@@ -9,6 +9,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=G-Redos&theme=github_dark"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G-Redos&theme=github_dark&gmtOffset=1"/>
 </div>
-
 <!-- # Reach me -->
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer)
