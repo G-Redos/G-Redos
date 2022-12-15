@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/gredos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-91a3b0?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
     <a href="https://twitter.com/g_redos" target="_blank"><img src="https://img.shields.io/badge/Twitter-91a3b0?style=for-the-badge&logo=twitter&logoColor=white"target="_blank"></a>
     <a href="https://www.gregoryredos.com" target="_blank"><img src="https://img.shields.io/badge/website-91a3b0?style=for-the-badge&logo=About.me&logoColor=white"target="_blank"></a>
- </div>
+</div>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=165&section=header&text=Gregory%20Redos&fontSize=90&animation=scaleIn&fontAlignY=50&desc=Junior%20Full%20Stack%20Developer&descSize=20&descAlignY=63&descAlign=72)
 
@@ -27,4 +27,4 @@
     <a href="https://www.linkedin.com/in/gredos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-91a3b0?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
     <a href="https://twitter.com/g_redos" target="_blank"><img src="https://img.shields.io/badge/Twitter-91a3b0?style=for-the-badge&logo=twitter&logoColor=white"target="_blank"></a>
     <a href="https://www.gregoryredos.com" target="_blank"><img src="https://img.shields.io/badge/website-91a3b0?style=for-the-badge&logo=About.me&logoColor=white"target="_blank"></a>
- </div>
+</div>
