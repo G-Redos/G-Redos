@@ -13,10 +13,10 @@
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=G-Redos&theme=2077"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G-Redos&theme=2077"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G-Redos&theme=2077"/> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G-Redos&theme=2077&gmtOffset=1"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=G-Redos&theme=blue_green"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G-Redos&theme=blue_green"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G-Redos&theme=blue_green"/> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G-Redos&theme=blue_green&gmtOffset=1"/>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer)
