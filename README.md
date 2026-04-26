@@ -8,6 +8,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=blue_green)
+
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=blue_green"/>
 </div>
