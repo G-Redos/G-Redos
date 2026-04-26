@@ -8,8 +8,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=blue_green)
-
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Redos&theme=blue_green"/>
 </div>
@@ -22,6 +20,7 @@
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
 <div align="center">
   <a href="https://github.com/G-Redos/CV-Resume-G.Redos" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CV/RESUME&color=c0c5ce&logo=About.me&logoColor=FFFFFF&label="target="_blank"></a>
   <a href="https://github.com/G-Redos" target="_blank"><img src="https://img.shields.io/badge/GitHub-c0c5ce?style=for-the-badge&logo=github&logoColor=white"target="_blank"></a>
